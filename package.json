@@ -1,0 +1,31 @@
+
+{
+  "name": "fearVM.git",
+  "version": "1.0.0",
+  "description": "A javascript virtual machine protector",
+  "main": "example.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoePus/fearVM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoePus/fearVM/issues"
+  },
+  "homepage": "https://github.com/MoePus/fearVM#readme",
+  "dependencies": {
+    "buffer-from": "1.1.1",
+    "commander": "2.20.3",
+    "jsfuck": "0.4.0",
+    "source-map": "0.6.1",
+    "source-map-support": "0.5.19",
+    "terser": "4.8.0"
+  }
+}
